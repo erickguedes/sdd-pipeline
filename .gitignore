@@ -1,0 +1,22 @@
+# Generated artifacts from SDD pipeline
+docs/generated/*
+!docs/generated/.gitkeep
+
+# Environment
+.env
+.env.*
+
+# Local config dirs (not part of SDD pipeline)
+.aiox-core/
+.antigravity/
+.claude/
+.codex/
+.cursor/
+.gemini/
+.github/
+.kimi/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
