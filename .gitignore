@@ -7,7 +7,6 @@ docs/generated/*
 .env.*
 
 # Local config dirs (not part of SDD pipeline)
-.aiox-core/
 .antigravity/
 .claude/
 .codex/
@@ -15,6 +14,7 @@ docs/generated/*
 .gemini/
 .github/
 .kimi/
+.aiox-core/
 .vscode/
 
 # OS
